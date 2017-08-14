@@ -1,5 +1,6 @@
 # Running the Interpreter
 Assuming you followed the instructions and downloaded python, you can open terminal and type run the command
+
 `$ python`
 
 This should change the symbol in your terminal window.
@@ -11,6 +12,7 @@ From here, the simplest thing to start with is to try out various math operation
 
 # Mathematical Operations
 You should already be familiar with the basic operations but I'll go over them again briefly.
+
 |Operation| Symbol | Usage|
 |---|:---:|---|
 |Addition|+|You should know what this does|
