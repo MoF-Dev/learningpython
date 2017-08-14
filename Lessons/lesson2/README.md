@@ -118,7 +118,7 @@ This is just a very basic example of using a variable to store input and then ou
 
 ---
 
-#Homework 😛
+# Homework 😛
 Task: Write a program `add.py` that takes in 2 inputs and outputs the sum.
 
 ---
