@@ -20,6 +20,7 @@ You should already be familiar with the basic operations but I'll go over them a
 |Multiplication|*|Then you should probably stop|
 |Division|/|And go back to primary school|
 |Modulo|%|Gives the remainder after dividing|
+
 Really modulo is the only one that you might need reminding of.
 ```
 > 5 / 2
