@@ -120,7 +120,7 @@ This is just a very basic example of using a variable to store input and then ou
 
 # Homework 😛
 Task: Write a program `add.py` that takes in 2 inputs and outputs the sum.
-
+Hint: `raw_input()` turns inputs into strings, to add the two inputs together, you'll first need to convert them both into integers.
 ---
 
 ## Next
