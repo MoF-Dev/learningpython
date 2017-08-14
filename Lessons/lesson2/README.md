@@ -4,7 +4,7 @@ You'll need some sort of text editor for the upcoming sections and for the rest 
 # Hello World
 We're going to start with the traditional Hello World program. That is, writing a program to print the words "Hello World" onto the screen.
 
-Open up your text editor and create a file called named hello.py
+Open up your text editor and create a file named hello.py
 
 ## Output
 In programming terms, *printing* generally means to display text on some sort of screen or console. For us, this means displaying text in the terminal window.
