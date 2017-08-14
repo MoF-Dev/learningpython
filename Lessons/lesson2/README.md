@@ -102,11 +102,11 @@ Open up hello.py in the editor and delete the line we wrote originally.
 We'll be using the `input()` method to get what the user types in and display it on the console.
 
 ```python
-name = input("What is your name: ")
+name = raw_input("What is your name: ")
 print("Hello " + name)
 ```
 
-The `input()` function does two things. First, it prints whatever is typed into the parentheses onto the console. Then, waits for the user to type something in and assigns it to the variable (`name`).
+The `raw_input()` function does two things. First, it prints whatever is typed into the parentheses onto the console. Then, waits for the user to type something in and assigns it to the variable (`name`).
 
 The `print()` function as we covered earlier prints whatever is in the parentheses to the console. In this case, we are adding together two strings together `"Hello " + name`, then printing that as one string.
 
