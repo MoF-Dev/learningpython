@@ -1,4 +1,4 @@
-#How to read instructions
+# How to read instructions
 Sometimes I'll ask you to input to type a command in the terminal (command line / cmd) or in the python interpreter (more on this later).
 
 To distinguish between the two, take a look below:
@@ -38,7 +38,7 @@ Copy and pasting skips developing the muscle memory that lets you memorize code 
 While not a hard requirement for learning how to code, knowing your way around the command line will be helpful later on.
 
 ### Commands to keep in mind
-|Command Name|What it does|Example|
+|Command Name|Usage|Example|
 |---|---|----|
 |`cd`|Changes directory| `$ cd /dogpictures/`|
 |`pwd`|Prints the current working directory|`$ pwd`|
@@ -47,7 +47,7 @@ While not a hard requirement for learning how to code, knowing your way around t
 |`mkdir`|Creates a directory with specified name|`$ mkdir catpictures`|
 |`mv`|Moves file or directory to specified location with specified name|`$ mv /dogpictures/nyan.png ../catpictures/nyan.png`|
 
-[Further explanation and examples of each command](link)
+[Further explanation and examples of each command](link) //todo
 
 ---
 # Installing Python
@@ -60,3 +60,5 @@ Once you've downloaded the installer, run it to install python (just keep clicki
 ---
 
 ## Next
+First topic we'll cover is basic mathematical operations 😝
+[Lesson One](https://github.com/MoF-Dev/learningpython/tree/master/Lessons/lesson1)
