@@ -45,4 +45,4 @@ At this point we're really only using the interpreter as a calculator, let's try
 
 ## Next
 We'll be tackling Input and Output as well as writing our first program! 😖
-[Lesson Two](https://github.com/MoF-Dev/learningpython/tree/master/Lessons/lesson1)
+[Lesson Two](https://github.com/MoF-Dev/learningpython/tree/master/Lessons/lesson2)
