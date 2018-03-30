@@ -11,7 +11,7 @@ The `$` indicates a terminal command.
 The `>` indicates an Interpreter command.
 
 Sometimes I'll give an example input and output:
-```
+```bash
 $ pwd
 /Users/atan/Desktop/images/lenapictures
 ```
