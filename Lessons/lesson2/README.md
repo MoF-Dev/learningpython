@@ -4,7 +4,7 @@ You'll need some sort of text editor for the upcoming sections and for the rest 
 # Hello World
 We're going to start with the traditional Hello World program. That is, writing a program to print the words "Hello World" onto the screen.
 
-Open up your text editor and create a file named hello.py
+Open up your text editor and create a file named *hello.py*
 
 ## Output
 In programming terms, *printing* generally means to display text on some sort of screen or console. For us, this means displaying text in the terminal window.
@@ -12,7 +12,8 @@ In programming terms, *printing* generally means to display text on some sort of
 In hello.py, type this line of code:
 
 ```python
-print("Hello World")
+#hello.py
+print "Hello World"
 ```
 
 Once you've done that, save the file. Open up terminal, navigate to where you saved the hello.py file and run
@@ -26,7 +27,9 @@ $ python hello.py
 Hello World
 ```
 
-Congratulations on writing your first python program 🏆😂
+Congratulations on writing your first program!
+
+The print command does as it says and prints text to the screen. In hello.py, you wrote a line of code that executes the print command, specifying that you wanted to output "Hello World".
 
 ---
 
@@ -71,16 +74,16 @@ Adding together integers
 
 Adding together Strings
 
-```
-> a = '300'
-> b = '45'
+```pyhon
+> a = '800'
+> b = '85'
 > a + b
-30045
+80085
 ```
 
 When manipulating and combining multiple variables, keep in mind what data types each variable is currently storing.
 
-```
+```python
 > var1 = 123
 > var2 = abc
 > var1 + var2
@@ -97,9 +100,13 @@ Try playing around with variables in the interpreter
 # Input
 
 Now that we've covered printing things to the screen, let's try getting some user input.
-Open up hello.py in the editor and delete the line we wrote originally.
+Create a new file called input.py in the editor.
 
-We'll be using the `input()` method to get what the user types in and display it on the console.
+In programming, a *function* is a piece of code that is given a name. This allows the programmer to use that piece of code to do things in multiple places of the program.
+
+Some functions are built-in to the programming language itself so the programmer doesn't need to define it themselves. The `print` command was one such function. Functions are typically denoted by a pair of parentheses () after the name. The print command happens to be a special case.
+
+We'll be using the `raw_input()` function to get user input from the terminal.
 
 ```python
 name = raw_input("What is your name: ")
