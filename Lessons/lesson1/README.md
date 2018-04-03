@@ -15,14 +15,15 @@ You should already be familiar with the basic operations but I'll go over them a
 
 |Operation| Symbol | Usage|
 |---|:---:|---|
-|Addition|+|You should know what this does|
-|Subtraction|-|If you don't know the first four|
-|Multiplication|*|Then you should probably stop|
-|Division|/|And go back to primary school|
-|Modulo|%|Gives the remainder after dividing|
+|Addition|+|1+2|
+|Subtraction|-|1-2|
+|Multiplication|*|1*2|
+|Division|/|1/2|
+|Modulo|%|1%2|
 
-Really modulo is the only one that you might need reminding of.
-```
+If you are unfamiliar with modulo, it gives back the remainder when dividing.
+
+```python
 > 5 / 2
 2
 > 5 % 2
@@ -34,7 +35,7 @@ Using modulo however, the interpreter returns 1. This is because 2 fits into 5 t
 ### Order of operations
 
 Parentheses can be used to indicate precedence just like in normal math.
-```
+```python
 > 5+(3*2)
 11
 > (5+3)*2
@@ -43,7 +44,6 @@ Parentheses can be used to indicate precedence just like in normal math.
 At this point we're really only using the interpreter as a calculator, let's try doing something more fancy.
 
 ---
-
 ## Next
-We'll be tackling Input and Output as well as writing our first program! 😖
+We'll be tackling Input and Output as well as writing our first program!
 [Lesson Two](https://github.com/MoF-Dev/learningpython/tree/master/Lessons/lesson2)
