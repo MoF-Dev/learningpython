@@ -29,6 +29,12 @@ If you see multiple lines, execute them one at a time.
 $ mkdir dogphotos
 $ cd dogphotos
 ```
+When there is a comment and a filename at the top of the example code, I'm just indicating what file the code should be written in.
+```python
+#example.py
+print "This is an example"
+```
+
 
 Finally, one last rule:
 **DO NOT COPY AND PASTE**
